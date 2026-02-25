@@ -38,6 +38,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastian-soltech&theme=dark" width="48%" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastian-soltech&layout=compact&theme=dark" width="70%" />
-</p>
