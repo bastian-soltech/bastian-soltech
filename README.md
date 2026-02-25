@@ -35,5 +35,5 @@
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bastian-soltech&show_icons=true&theme=dark&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bastian-soltech&theme=dark" width="48%" />
 </p>
-
