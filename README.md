@@ -1,10 +1,15 @@
 ## 💫 About Me
 
 🔭 **Current Focus:** Crafting scalable web solutions and turning raw data into actionable insights at **SolTech**.
+
 👯 **Collaboration:** Open for Open Source projects, specifically in React ecosystem or Data Visualization tools.
+
 🤝 **Support:** Looking for mentorship in Advanced Machine Learning and Cloud Architecture.
+
 🌱 **Learning Path:** Currently mastering latest Next.js Server Actions and Deep Learning with Python.
+
 💬 **Let's Talk:** Ask me about Web Development, SQL optimization, or how to tell a story with data.
+
 ⚡ **Fun Fact:** I spend 2 hours debugging a code, only to find out I missed a single semicolon. 😅
 
 ## 🌐 Socials:
@@ -27,16 +32,12 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bastian-soltech&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=bastian-soltech&theme=dark&hide_border=false" width="45%" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastian-soltech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bastian-soltech&show_icons=true&theme=dark&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bastian-soltech&theme=dark" width="48%" />
 </p>
 
----
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bastian-soltech&icon=2&color=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastian-soltech&layout=compact&theme=dark" width="70%" />
 </p>
